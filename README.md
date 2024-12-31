@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nightcola
 - 👀 I’m interested in Computer Security, Program language(C#, Python) 
-- 🌱 I’m currently collect knowledge about social department related.
+- 🌱 I’m currently collect knowledge about social housing related.
 - 💞️ I’m looking to collaborate on Computer Security
 - 📫 How to reach me ...(E-mail: nightcola.lin@gmail.com)
 
